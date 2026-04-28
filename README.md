@@ -1,4 +1,4 @@
-# Rabi-driven Vibrational Excitation under Molecular Polaritons
+# Rabi-driven Vibrational Excitation by Molecular Polaritons
 
 First released on 04/27/2026:
 
