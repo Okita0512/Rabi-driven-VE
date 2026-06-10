@@ -1,0 +1,8 @@
+H dims: {'dim_elec': 10, 'dim_vib': 6561, 'dim_total': 65610}
+Starting chunked propagation...
+  step 0/80001
+  step 20000/80001
+  step 40000/80001
+  step 60000/80001
+  step 80000/80001
+Saved: UP_LP_GS_DS_population.dat, exciton_photon_population.dat, Evib_avg.dat (eV per mode), vib_ground_excited.dat, vib_level_pop.dat, vib_level_energy.dat
